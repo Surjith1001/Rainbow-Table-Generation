@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/125909533/236509063-5f360f93-b5d3-481c-a693-9b98f0876856.png">
 
 # step 8 :  Then sort the table using rsort . command
-
+# step 9 :  The Hash table is generated and stored in usr/share/rainbowcrack it will take more time to generate the table but it will crack the password with less time compare to creating it.
 
 <img src="https://user-images.githubusercontent.com/125909533/236509121-725b41c9-f55f-43ad-bd74-135c1aad505d.png">
 
